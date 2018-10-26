@@ -7,8 +7,18 @@
     color: #8a8a8a;
 }
 .card{
-    margin-bottom: 0px;
+    margin: 0px 5px;
+
 }
 .grid-y{
     margin-top: 10px;
+}
+body{
+    background-image: url("https://c.pxhere.com/photos/66/a0/footprint_beach_dog_tracks_in_the_sand_footprints_paw_dog_paw_dog_track-859515.jpg!d");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h5{
+    text-shadow: 1px 1px 8px white;
 }
